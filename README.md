@@ -1,2 +1,2 @@
-# lakshmiganth43
+# lakshmiganth
 Config files for my GitHub profile.
